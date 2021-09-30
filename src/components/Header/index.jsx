@@ -13,7 +13,7 @@ const Header = () => {
       </Link>
       <div className='header__menu'>
         <div className='header__menu--profile'>
-          <img src={userIcon} alt='User Icono'  />
+          <img src={userIcon} alt='User Icono' />
           <p>Perfil</p>
         </div>
         <ul>
